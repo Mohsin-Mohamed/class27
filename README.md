@@ -1,2 +1,2 @@
-# class27
-USE WEB SERVER 200@K *Remember it's free!*
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
